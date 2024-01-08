@@ -1,0 +1,7 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+cat -n hw2-input10.txt
+cd /home/goldsd
+ls -1 | wc -l
+exit

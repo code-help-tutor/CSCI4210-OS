@@ -1,0 +1,8 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+cat -n hw2-input12.txt
+ls -l /usr/bin/python3 &
+sleep 4
+ps -f | wc -l
+exit

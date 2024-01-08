@@ -1,0 +1,9 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+cat cocoapuffs.txt
+cd /home/goldsd
+ls -1 | grep cocoapuffs
+ls -1 | grep -v cocoapuffs
+ps -f | wc -l
+exit
